@@ -1,38 +1,38 @@
 ![Millefeuille](docs/images/millefeuille.jpg)
-<div style="text-align:center;">
-  <p style="
-    font-size: 24px;
-    font-weight: 400;
-    margin:0;">
-    MilleFeuille
-  </p>
-  <span>Your layers of money.</span>
+<div align="center">
+  <p>MilleFeuille</p>
+  <span>Layered goodness.</span>
 </div>
 
-<h1 style="text-align:center;">
-  Personal Budgeting Manager
+<h1 align="center">
+  Personal Finance Manager
 </h1>
 
-Millefeuille is an open source personal budgeting management system.
+Millefeuille is an open source personal financial management system.
 
 - [Introduction](#introduction)
   - [Purpose](#purpose)
   - [Features](#features)
+  - [Things we won't do](#things-we-wont-do)
   <!-- - Who is it for
   - What MilleFeuille isn't
   - Where does this tool come from? -->
 
 ## Introduction
-Millefeuille is an open-source web application to organise and manage your money. We call it a PBM, or Personal Budget Manager. This is what it looks like:
+Millefeuille is an open-source web application to organise and manage your financial matters. This is what it looks like:
 ![screenshot](docs/images/macbookpro.png)
 
 ### Purpose
 Some text here
+
 ### Features
 - a 
 - list
 - of
 - features
+
+### Things we won't do
+- save your banking ids and passwords
 
 <!-- ## Get started
 ## Contribute
