@@ -1,7 +1,7 @@
 ![Millefeuille](docs/images/millefeuille.jpg)
 <div align="center">
   <p>MilleFeuille</p>
-  <span>Layered goodness.</span>
+  <span>Layers of financial goodness.</span>
 </div>
 
 <h1 align="center">
@@ -14,9 +14,8 @@ Millefeuille is an open source personal financial management system.
   - [Purpose](#purpose)
   - [Features](#features)
   - [Things we won't do](#things-we-wont-do)
-  <!-- - Who is it for
-  - What MilleFeuille isn't
-  - Where does this tool come from? -->
+- [Vision](#vision)
+- [Monetisation](#monetisation)
 
 ## Introduction
 Millefeuille is an open-source web application to organise and manage your financial matters. This is what it looks like:
@@ -34,8 +33,8 @@ Some text here
 ### Things we won't do
 - save your banking ids and passwords
 
-<!-- ## Get started
-## Contribute
-## Principles, vision, goals and strategy
-## Contact
-## License -->
+## Vision
+I'm building this to improve myself financially and work towards financial independence. In order to realise that goal, it's important that I understand where I am financially so that I may set accurate targets and goals to achieve.
+
+## Monetisation
+For the time being, this is being launched as a free app.
