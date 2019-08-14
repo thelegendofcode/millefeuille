@@ -22,13 +22,16 @@ Millefeuille is an open-source web application to organise and manage your finan
 ![screenshot](docs/images/macbookpro.png)
 
 ### Purpose
-Some text here
+Millefeuille keeps track of your financial matters with the aim of helping you manage your money more efficiently and lead you towards a financially independent lifestyle.
 
 ### Features
-- a 
-- list
-- of
-- features
+- login with Google
+- store data locally
+- portfolio visualiser
+- asset allocation analysis and recommendations
+- expenses tracker
+- import bank and credit card CSVs
+- budget planning
 
 ### Things we won't do
 - save your banking ids and passwords
