@@ -14,7 +14,9 @@ Millefeuille is an open source personal financial management system.
   - [Purpose](#purpose)
   - [Features](#features)
   - [Things we won't do](#things-we-wont-do)
-- [Vision](#vision)
+- [Mission](#Mission)
+  - [Vision](#vision)
+  - [Philosophy](#philosophy)
 - [Monetisation](#monetisation)
 
 ## Introduction
@@ -30,14 +32,23 @@ Millefeuille keeps track of your financial matters with the aim of helping you m
 - portfolio visualiser
 - asset allocation analysis and recommendations
 - expenses tracker
+- debt visualiser
+- recurring payments
+- payment reminders
 - import bank and credit card CSVs
 - budget planning
 
 ### Things we won't do
 - save your banking ids and passwords
 
-## Vision
+## Mission
+I want everyone to live a financially fulfilling life.
+
+### Vision
 I'm building this to improve myself financially and work towards financial independence. In order to realise that goal, it's important that I understand where I am financially so that I may set accurate targets and goals to achieve.
+
+### Philosophy
+Something about FIRE. Spend less than you earn, put savings into low cost index funds, avoid unnecessary expenses.
 
 ## Monetisation
 For the time being, this is being launched as a free app.
