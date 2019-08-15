@@ -1,6 +1,6 @@
 ![Millefeuille](docs/images/millefeuille.jpg)
 <div align="center">
-  <p>MilleFeuille</p>
+  <p>Millefeuille</p>
   <span>Layers of financial goodness.</span>
 </div>
 
@@ -52,3 +52,5 @@ Something about FIRE. Spend less than you earn, put savings into low cost index 
 
 ## Monetisation
 For the time being, this is being launched as a free app.
+
+<p align="center">Copyright (c) [Legend of Code](https://legendofcode.com) 2019</p>
