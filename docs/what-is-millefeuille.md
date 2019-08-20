@@ -1,6 +1,6 @@
-# What is Budgeteer?
+# What is Millefeuille?
 
-Budgeteer is a combination of multiple micro-apps that come together to build a picture of your financial status.
+Millefeuille is a combination of multiple micro-apps that come together to build a picture of your financial status.
 
 The list of micro-apps consists of
 
