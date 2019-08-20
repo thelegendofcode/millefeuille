@@ -1,7 +1,7 @@
 ![Millefeuille](docs/images/millefeuille.jpg)
 <div align="center">
   <p>Millefeuille</p>
-  <span>Layers of financial goodness.</span>
+  <span>Layered financial goodness.</span>
 </div>
 
 <h1 align="center">
@@ -12,18 +12,19 @@ Millefeuille is an open source personal financial management system.
 
 - [Introduction](#introduction)
   - [Purpose](#purpose)
-  - [Features](#features)
+  - [Features wishlist](#features-wishlist)
   - [Things we won't do](#things-we-wont-do)
 - [Mission](#Mission)
   - [Vision](#vision)
   - [Philosophy](#philosophy)
+- [Development](#development)
 - [Monetisation](#monetisation)
 
 ## Introduction
 Millefeuille is an open-source web application to organise and manage your financial matters. This is what it looks like:
 ![screenshot](docs/images/macbookpro.png)
 
-### Purpose
+### Purpose wishlist
 Millefeuille keeps track of your financial matters with the aim of helping you manage your money more efficiently and lead you towards a financially independent lifestyle.
 
 ### Features
@@ -50,7 +51,19 @@ I'm building this to improve myself financially and work towards financial indep
 ### Philosophy
 Something about FIRE. Spend less than you earn, put savings into low cost index funds, avoid unnecessary expenses.
 
-## Monetisation
-For the time being, this is being launched as a free app.
+## Development
 
-<p align="center">Copyright (c) [Legend of Code](https://legendofcode.com) 2019</p>
+This app essentially serves as my personal dev playground so it will consist of a whole bunch of different technologies. Some that may not necessarily right for the job, just something I feel like messing about with.
+
+Standardisation of technologies will be considered should Millefeuille actually become popular enough with real users.
+
+## Monetisation
+For the time being, this is being launched as a free app. 
+
+## Mirror
+
+A public version of this repo is mirrored at https://github.com/thelegendofcode/Millefeuille.
+
+<p align="center">
+Copyright (c) <a href="https://legendofcode.com">Legend of Code</a> 2019
+</p>
