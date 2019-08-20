@@ -3,9 +3,9 @@
 Document what the requirements of the app are, features being planned, and so on.
 
 - [Requirements](#Requirements)
-    - [User Persona #1](#user-persona-#1)
+    - [User Persona #1](#user-persona-1)
     - [Developer](#developer)
-- [v0.1.0 Minimally Usable Prototype](#v0.1.0-Minimally-Usable-Prototype)
+- [v0.1.0 Minimally Usable Prototype](#v010-Minimally-Usable-Prototype)
     - [List of features](#List-of-features)
     - [List of user stories](#List-of-user-stories)
 - [Features for some unknown future](#Features-for-some-unknown-future)

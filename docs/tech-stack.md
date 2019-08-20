@@ -4,8 +4,8 @@ A quick run down of the proposed tech stack.
 
 - [Ideal architecture](#Ideal-architecture)
 - [Immediate architecture](#Immediate-architecture)
-- [CI/CD using Google Code Build or CircleCI?](#CI/CD-using-Google-Code-Build-or-CircleCI?)
-- [Why Firebase instead of PostgreSQL/Nodejs?](#Why-Firebase-instead-of-PostgreSQL/Nodejs?)
+- [CI/CD using Google Code Build or CircleCI?](#cicd-using-google-cloud-build-or-circleci)
+- [Why Firebase instead of PostgreSQL/Nodejs?](#why-firebase-instead-of-postgresqlnodejs)
 - [Monorepo](#Monorepo)
 - [Domains and namespaces](#Domains-and-namespaces)
 
