@@ -53,16 +53,26 @@ Something about FIRE. Spend less than you earn, put savings into low cost index 
 
 ## Development
 
-This app essentially serves as my personal dev playground so it will consist of a whole bunch of different technologies. Some that may not necessarily right for the job, just something I feel like messing about with.
+This app essentially serves as my personal tech playground so it will consist of a whole bunch of different technologies. Some that may not necessarily right for the job, just something I feel like messing about with.
 
 Standardisation of technologies will be considered should Millefeuille actually become popular enough with real users.
+
+Below are instructions for how to install and run the app.
+
+### Installation
+
+Lorem ipsum
+
+### Running the app
+
+Lorem ipsum
 
 ## Monetisation
 For the time being, this is being launched as a free app. 
 
 ## Mirror
 
-A public version of this repo is mirrored at https://github.com/thelegendofcode/Millefeuille.
+A public version of this repo is mirrored at https://github.com/thelegendofcode/Millefeuille. This entire repo should probably be moved to the LoC organisation after a few basic milestones are met.
 
 <p align="center">
 Copyright (c) <a href="https://legendofcode.com">Legend of Code</a> 2019
