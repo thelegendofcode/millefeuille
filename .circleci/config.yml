@@ -1,8 +1,8 @@
 version: 2
-  jobs:
-    build:
-      docker:
-        - image: circleci/node:current
-      steps:
-        - checkout
-        - run: echo "Does nothing except waste CircleCI's resources"
+jobs:
+  build:
+    docker:
+      - image: circleci/node:current
+    steps:
+      - checkout
+      - run: echo "Does nothing except waste CircleCI's resources"
