@@ -1,0 +1,8 @@
+{
+  "name": "millefeuille",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/thelegendofcode/millefeuille",
+  "author": "Sen",
+  "license": "MIT"
+}
