@@ -2,7 +2,7 @@
 
 ![Buzzwords! Buzzwords everywhere!](images/buzzwords.jpg)
 
-## Millefeuille is a web app built mostly with React but some parts Vue and some parts Angular (maybe even Mythril!) that will be Continually Integrated on CircleCI running Puppeteer tests for soundness. Above a certain Code Coverage percentage, a Docker image will be created to be mounted via Kubernetes and Continually Deployed onto the tiniest of Elastic Beanstalks on AWS.
+## Millefeuille is a web app built mostly with React, some parts Vue and some parts Angular (maybe even Mythril!) that is Continually Integrated on CircleCI running Puppeteer e2e tests. Above a certain Code Coverage percentage, a Docker image will be created to be mounted via Kubernetes and Continually Deployed on clusters of AWS EC2s.
 
 Probably.
 
