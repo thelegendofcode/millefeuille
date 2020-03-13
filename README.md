@@ -26,8 +26,8 @@ This new one will work better because we'll do it **Properly This Time™**.
 
 ## [Documentation](docs/)
 
-- [Concept](docs/concept)
-- [Tech Stack](docs/tech-stack)
+- [Concept](docs/concept.md)
+- [Tech Stack](docs/tech-stack.md)
 
 ---
 
