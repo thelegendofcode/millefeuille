@@ -17,3 +17,5 @@ The data will be mostly stored in PostgresSQL (RDS) though some bits will be in 
 Most of the hosting will be on AWS, though I'd like to put some stuff on GCP and others more on Azure. I'm not sure what yet. Oh hell, let's throw in Heroku too.
 
 You think I'm joking but I intend to use this as my technical playground. You were warned.
+
+Anyway.
