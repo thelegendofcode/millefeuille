@@ -2,27 +2,34 @@
 
 <div align="center">
   <p>Millefeuille</p>
-  <span>Layered financial goodness.</span>
+  <span>Layers of financial goodness.</span>
 </div>
 
 <h1 align="center">
   Personal Finance Manager
 </h1>
 
-Millefeuille is an open source personal financial management system.
-
-- [Introduction](#introduction)
-- [Mission](#Mission)
-
-## Introduction
-
-Millefeuille is an open-source web application to organise and manage your financial matters. This is what it looks like:
+Millefeuille ~~is~~ will be an open source personal financial management system.
 
 ![screenshot](docs/images/macbookpro.png)
 
-## Mission
+This screen is black because Millefeuille the open source personal financial management system doesn't exist yet :+1::+1:
 
-Our mission at Millefeuille is to help lead you towards a financially independent lifestyle using pretty data visualisations of your money.
+- [Introduction](#introduction)
+- [Documentation](#Documentation)
+
+## Introduction
+
+Millefeuille is a budget management web app that I'm building for myself but you can use it if you want to (when it exists). Originally, this was essentially just a bunch of SQL scripts and random javascript snippets hastily put together that broke every time.
+
+This new one will work better because we'll do it **Properly This Time™**.
+
+## [Documentation](docs/)
+
+- [Concept](docs/concept)
+- [Tech Stack](docs/tech-stack)
+
+---
 
 <p align="center">
 Copyright (c) <a href="https://legendofcode.com">Legend of Code</a> 2019
